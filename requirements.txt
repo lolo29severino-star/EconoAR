@@ -1,0 +1,10 @@
+pandas>=2.1
+numpy>=1.26
+requests>=2.31
+statsmodels>=0.14
+scikit-learn>=1.4
+plotly>=5.20
+streamlit>=1.50
+matplotlib>=3.8
+geopandas>=0.14
+anthropic>=0.40   # opcional: asistente con Claude
